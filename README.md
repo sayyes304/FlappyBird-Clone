@@ -14,7 +14,7 @@
   
 | Start Scene | GameOver Scene |
 | ---------- | ---------- |
-| <a href="#"><img src='./img/Start.jpg' width="100" height="200"> | <a href="#"><img src='./img/GameOver.jpg' width="100" height="200"> | 
+| <a href="#"><img src='./img/Start.jpg' width="150" height="300"> | <a href="#"><img src='./img/GameOver.jpg' width="150" height="300"> | 
 
 
   
