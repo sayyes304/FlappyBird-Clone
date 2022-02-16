@@ -12,9 +12,9 @@
 ## Demonstraion
 <a href="#"><img src='./img/Scenes.gif' width="200" height="380">
   
-| Start Scene | GameOver Scene |
+| Start Scene | GameOver Scene | Game Demo |
 | ---------- | ---------- |
-| <a href="#"><img src='./img/Start.jpg' width="150" height="300"> | <a href="#"><img src='./img/GameOver.jpg' width="150" height="300"> | 
+| <a href="#"><img src='./img/Start.jpg' width="150" height="320"> | <a href="#"><img src='./img/GameOver.jpg' width="150" height="320"> | <a href="#"><img src='./img/Scenes.gif' width="150" height="320">
 
 
   
