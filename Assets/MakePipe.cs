@@ -19,8 +19,10 @@ public class MakePipe : MonoBehaviour
         if (timer > timeDiff)
         {
             GameObject newpipe = Instantiate(pipe);      //pipe 생성
-            newpipe.transform.position = new Vector3(0, 0, 0);  //새롭게 좌표 설정
-            timer = 0;      
+            newpipe.transform.position = new Vector3(0, Random.Range(-2f,3.5f), 0);  //새롭게 좌표 설정
+            timer = 0;
+            Destroy(newpipe, 7);
         }       // 매 1초 마다 한 번씩 기둥이 생김
+
     }
 }
