@@ -12,10 +12,10 @@
 ## Demonstraion
 <a href="#"><img src='./img/Scenes.gif' width="200" height="380">
   
-
-| ---------- | ---------------------------------------------- | 
-| <a href="#"><img src='./img/Start.jpg' width="100" height="200"> | <a href="#"><img src='./img/GameOver.jpg' width="100" height="200"> | 
 | Start Scene | GameOver Scene |
+| ---------- | ---------- |
+| <a href="#"><img src='./img/Start.jpg' width="100" height="200"> | <a href="#"><img src='./img/GameOver.jpg' width="100" height="200"> | 
+
 
   
     
