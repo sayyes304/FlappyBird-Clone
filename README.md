@@ -2,7 +2,7 @@
 
 ## Description
 
-> 2022.02 ~
+> 2022.02
 
 ## About Project
 
