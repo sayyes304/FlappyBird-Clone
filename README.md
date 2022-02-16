@@ -13,7 +13,7 @@
 
 | Start Scene | GameOver Scene | Game Demo |
 | ---------- | ---------- | ---------- |
-| <a href="#"><img src='./img/Start.jpg' width="150" height="320"> | <a href="#"><img src='./img/GameOver.jpg' width="150" height="320"> | <a href="#"><img src='./img/Scenes.gif' width="150" height="320">
+| <a href="#"><img src='./img/Start.jpg' width="180" height="320"> | <a href="#"><img src='./img/GameOver.jpg' width="180" height="320"> | <a href="#"><img src='./img/Scenes.gif' width="180" height="320">
 
 
   
