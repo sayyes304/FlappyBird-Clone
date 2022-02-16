@@ -10,7 +10,7 @@
 * Unity
 
 ## Demonstraion
-<a href="#"><img src='./img/Scenes.gif'>
-  <a href="#"><img src='./img/Start.gif'>
-    <a href="#"><img src='./img/GameOver.gif'>
+<a href="#"><img src='./img/Scenes.gif' width="200" height="400">
+  <a href="#"><img src='./img/Start.jpg' width="200" height="400">
+    <a href="#"><img src='./img/GameOver.jpg' width="200" height="400">
   
